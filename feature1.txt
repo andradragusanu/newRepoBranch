@@ -1,2 +1,7 @@
 new file added on feature1 branch
+
 Update 0.1 From branch Feature2 
+
+Update from GH
+Conflict resolved?
+
